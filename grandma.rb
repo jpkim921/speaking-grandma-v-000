@@ -14,5 +14,5 @@
 def speak_to_grandma(str)
 
   if str == str.uppercase
-    return HUH?! SPEAK UP, SONNY!
+    return "HUH?! SPEAK UP, SONNY!"
 end
